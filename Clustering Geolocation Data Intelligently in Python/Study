@@ -1,0 +1,13 @@
+Key Concepts learnt:
+1. Preprocess and clean geolocation data
+2. Visualize dataset interactively
+3. Evaluate strength of a clustering algorthm's result
+4. How K-Means algorithm works and how to use it
+5. How to use DBSCAN and what its shortcomings are
+6. How to improve DBSCAN with HDBSCAN
+7. Addressing and classifying outliers into existing clusters using K-Nearest Neighbor
+
+Important study links for this project:
+1. Theory about K-Means: https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl
+2. Framework for implementation: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+3. Guide to python's PANDAS library: https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
