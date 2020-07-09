@@ -10,4 +10,4 @@ Key Concepts learnt:
 Important study links for this project:
 1. Theory about K-Means: https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl
 2. Framework for implementation: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
-3. Guide to python's PANDAS library: https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+3. Guide to python's libraries: https://www.youtube.com/watch?v=vmEHCJofslg&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp
